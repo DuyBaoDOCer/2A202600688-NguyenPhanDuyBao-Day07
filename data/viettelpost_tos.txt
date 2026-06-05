@@ -1,0 +1,217 @@
+Điều khoản và quy định
+02:34 21/12/2021
+Điều 1. Quy định chung
+1. Phần mềm ViettelPost đã được thông báo với Bộ Công Thương nhằm mục đích
+cung cấp cho Khách hàng các dịch vụ bưu chính, logistics, thương mại điện tử…
+Bằng việc chấp nhận sử dụng Dịch vụ của Tổng Công ty Cổ phần Bưu chính Viettel
+(Viettel Post), Khách hàng đã đọc, đã hiểu và đồng ý với các nội dung của Điều
+khoản sử dụng tại phần mềm ViettelPost.
+2. Viettel Post có quyền sửa đổi, bổ sung bất cứ nội dung nào tại bản Điều Khoản
+Sử Dụng này vào bất kì thời điểm nào mà Viettel Post cho là phù hợp. Phiên bản cập
+nhật sẽ được đăng tải trên phần mềm. Khách Hàng xác nhận và đồng ý rằng việc tiếp
+tục sử dụng dịch vụ tại phần mềm sau khi có bất kỳ thay đổi nào, sẽ đồng nghĩa với
+việc Khách Hàng đã chấp thuận và đồng ý đối với những thay đổi đó.
+Điều 2. Giải thích từ ngữ
+Trong phạm vi Điều khoản sử dụng này, các từ ngữ sau đây được hiểu như sau:
+– Dịch Vụ là dịch vụ bưu chính do Viettel Post cung cấp qua phần mềm Viettel Post.
+– Khách Hàng là tổ chức, cá nhân sử dụng dịch vụ trên phần mềm ViettelPost.
+– Bưu gửi là thư, gói, kiện hàng hóa được ViettelPost chấp nhận, vận chuyển và phát
+hợp pháp trong hệ thống bưu cục của ViettelPost.
+– Đơn hàng là yêu cầu sử dụng Dịch Vụ được Khách Hàng khởi tạo trên phần mềm.
+– Đơn hàng được chấp nhận là Đơn hàng đã được Nhân viên của ViettelPost tiếp
+nhận vật lý và trên phần mềm đã ghi nhận các thông tin về người gửi, người nhận,
+bưu gửi, và thông tin về hành trình thư; cước phí, có giá trị chứng cứ về việc xác lập
+và thực hiện Dịch Vụ giữa các bên.
+– Người gửi là tổ chức, cá nhân có tên tại phần ghi thông tin về người gửi trên bưu
+gửi, trên Đơn hàng.
+– Người nhận là tổ chức, cá nhân có tên tại phần ghi thông tin về người nhận trên
+bưu gửi, trên Đơn hàng.
+– Thời gian toàn trình của bưu gửi là khoảng thời gian được tính từ khi bưu gửi được
+chấp nhận cho đến khi được phát cho Người nhận.
+Điều 3. Phí Dịch vụ
+1. Biểu phí dịch vụ được Viettel Post quy định trong từng thời kỳ và được thông báo
+công khai chi tiết tại đây hoặc niêm yết tại các địa điểm kinh doanh của ViettelPost.
+2. Viettel Post có quyền quy định, thay đổi mức phí của các Dịch vụ. Biểu phí thay
+đổi sẽ có giá trị ràng buộc nếu Khách Hàng tiếp tục sử dụng dịch vụ sau khi biểu phí
+mới có hiệu lực.
+3. Nếu Khách Hàng không đồng ý với mức phí đưa ra khách hàng có quyền không
+sử dụng dịch vụ.
+Điều 4. Quy định giao, nhận, hoàn bưu gửi
+a. Thủ tục gửi bưu gửi
+– Khi phát sinh nhu cầu sử dụng dịch vụ, khách hàng tiến hành khởi tạo đơn hàng
+trên phần mềm của Viettel Post, đảm bảo đầy đủ thông tin: Thông tin người gửi
+hàng, người nhận hàng, địa chỉ chi tiết, số điện thoại, nội dung hàng hóa, số lượng,
+khối lượng, kích thước, dịch vụ lựa chọn, cước phí phát sinh, thu hộ tiền hàng COD,
+dịch vụ cộng thêm… mã đơn hàng. Trọng lượng thực tế so khối lượng nhập cước
+(nếu KH có cân), chứng từ đi kèm (nếu có), Điện thoại bắt buộc ghi rõ imei và chịu
+trách nhiệm về các thông tin cung cấp.
+– Khách hàng đóng gói Bưu gửi theo đúng quy cách, kích thước và tính chất của từng
+mặt hàng, thông báo và ghi chú các lưu ý bảo quản bưu gửi cho Viettel Post. Chi tiết
+cách thức gói bọc hàng hóa được nêu tại tại đây .
+– Khách Hàng bàn giao bưu gửi và yêu cầu nhân viên Viettel Post ghi rõ thời gian,
+ngày nhận hoặc cập nhật trạng thái chấp nhận bưu gửi trên phần mềm Viettel Post
+và lưu liên 3 phiếu gửi khi sử dụng phiếu gửi do Viettel Post in sẵn (nếu có).
+– Khách hàng có quyền thực hiện hủy Đơn hàng đã đặt trước khi bàn giao bưu gửi
+vật lý cho nhân viên của Viettel Post.
+b. Thủ tục tiếp nhận bưu gửi
+– Viettel Post kiểm tra nội dung vật phẩm, hàng hóa và chứng từ đi kèm trước khi
+tiếp nhận. Viettel Post chỉ tiếp nhận, vận chuyển vật phẩm, hàng hóa hợp pháp, đáp
+ứng đầy đủ các điều kiện vận chuyển theo quy định của pháp luật hiện hành (có hóa
+đơn, chứng từ, nguồn gốc xuất xứ …) và đã được đóng gói, bảo quản đúng quy chuẩn,
+quy định của Viettel Post.
+– Trường hợp, Viettel Post phát hiện thông tin bưu gửi không chính xác thì Viettel
+Post được quyền yêu cầu Khách Hàng chỉnh sửa thông tin hoặc tự động chỉnh sửa
+thông tin (nếu có thể) hoặc từ chối cung cấp Dịch Vụ hoặc ngừng Dịch Vụ, hoàn
+bưu gửi (nếu đã tiếp nhận). Khách Hàng có nghĩa vụ thanh toán tất cả các chi phí
+phát sinh từ hành vi khai báo/điền thông tin không chính xác.
+Lưu ý:
+– Danh mục vật phẩm, hàng hóa cấm gửi, gửi có điều kiện được quy định chi tiết tại
+https://viettelpost.com.vn/dich_vu/quy-dinh-hang-cam-gui-gui-co-dieu-kien/.
+c. Thủ tục hoàn bưu gửi
+Bưu gửi được chuyển hoàn để trả lại cho Khách hàng trong trường hợp Bưu gửi
+không giao thành công đến người nhận vì các lý do khác nhau (không có địa chỉ
+người nhận; địa chỉ người nhận không đúng, không đầy đủ; người nhận đã thay đổi
+địa chỉ nhưng không để lại địa chỉ mới; người nhận từ chối nhận hàng…) hoặc Khách
+Hàng gửi yêu cầu chuyển hoàn.
+Thời hạn Viettel Post hoàn trả Bưu gửi và mức phí Khách Hàng phải thanh toán khi
+chuyển hoàn quy định tại: https://viettelpost.com.vn/danh_muc_dich_vu/dich-vu/.
+Để xác nhận đơn hàng được hoàn Khách hàng thực hiện theo hướng dẫn tại
+https://viettelpost.com.vn/tin-hoat-dong/kiem-soat-don-hoan-tot-hon-voi-appwebsite-viettelpost/.
+Điều 5. Quy định về xử lý dữ liệu cá nhân
+1. Bằng việc sử dụng các Sản phẩm, hàng hóa, dịch vụ hoặc đăng ký một tài khoản
+hoặc truy cập, sử dụng phần mềm ViettelPost, Khách hàng xác nhận đồng ý và đã
+hiểu rõ các quy định của Chính sách bảo vệ dữ liệu cá nhân được nêu chi tiết tại
+https://viettelpost.com.vn/wp-content/uploads/2023/10/PL1.-Chinh-sach-bao-matv%C3%A0-bao-ve-du-lieu-ca-nhan.pdf.
+Theo đó Khách hàng cho phép Viettel Post thu thập, xử lý Dữ liệu cá nhân theo quy
+định tại Chính sách này và theo quy định của pháp luật.
+2. Nếu Khách hàng không đồng ý cho phép Viettel Post thu thập và xử lý dữ liệu cá
+nhân như trong mô tả tại chính sách này, vui lòng không/ngừng sử dụng các sản
+phẩm, hàng hóa, dịch vụ của Viettel Post hay truy cập vào các kênh giao dịch của
+Viettel Post.
+3. Khách hàng có thể rút lại sự đồng ý cho phép Viettel Post thu thập, xử lý dữ liệu
+hoặc yêu cầu Viettel Post xóa dữ liệu của Khách hàng bằng việc gửi thông báo cho
+Viettel Post. Tuy nhiên, Khách hàng lưu ý rằng việc rút lại sự đồng ý sẽ không ảnh
+hưởng đến tính hợp pháp của việc thu thập, xử lý dữ liệu trước đó đối với Khách
+hàng trên cơ sở sự chấp thuận của Khách hàng, đồng thời Dữ Liệu của Khách hàng
+có thể vẫn sẽ tiếp tục được lưu trữ theo quy định của pháp luật hiện hành.
+Điều 6. Quyền và nghĩa vụ của Khách hàng
+a. Quyền của Khách hàng:
+– Được cung cấp đầy đủ thông tin liên quan đến dịch vụ mà Khách Hàng sử dụng.
+– Được đảm bảo an toàn thông tin bưu gửi trong quá trình sử dụng dịch vụ.
+– Được khiếu nại về dịch vụ đã sử dụng theo nội dung công bố của Viettel Post.
+– Được bồi thường thiệt hại theo quy định của Viettel Post và quy định của pháp luật.
+– Các quyền khác theo quy định của pháp luật.
+b. Nghĩa vụ của Khách Hàng:
+– Bảo mật thông tin tài khoản Khách Hàng truy cập trên phần mềm của Nhà Cung
+Cấp và chịu trách nhiệm về mọi thao tác phát sinh từ tài khoản của Khách Hàng.
+– Không gửi hàng cấm gửi và thực hiện đầy đủ quy định đảm bảo an ninh, an toàn
+bưu gửi (gói bọc, niêm phong, dán nhãn lưu ý…) theo quy định của Viettel Post và
+pháp luật hiện hành.
+– Khai báo trung thực thông tin người gửi, người nhận, nội dung bưu gửi và các
+thông tin khác của phiếu gửi; chịu trách nhiệm về thông tin khai báo và hóa đơn,
+chứng từ đi kèm bưu gửi. Trường hợp cơ quan quản lý nhà nước yêu cầu, Khách
+Hàng có trách nhiệm làm việc trực tiếp và cung cấp đầy đủ, kịp thời hóa đơn, chứng
+từ cho cơ quan quản lý nhà nước.
+– Nộp phạt theo quy định của pháp luật và bồi thường thiệt hại cho Viettel Post trong
+trường hợp bưu gửi bị tạm giữ, tịch thu, …
+– Chịu trách nhiệm thanh toán cước phí dịch vụ và các khoản phí dịch vụ giá trị gia
+tăng khác theo như đã thỏa thuận;
+– Chịu trách nhiệm về mọi thông tin liên quan đến người nhận mà Khách Hàng cung
+cấp để thực hiện Đơn hàng. Trường hợp xảy ra sai sót về thông tin Người nhận hoặc
+bưu gửi không đúng yêu cầu của Người nhận do lỗi của Khách hàng thì Khách hàng
+có trách nhiệm tự giải quyết với người nhận, đồng thời Viettel Post vẫn tính cước
+phí Dịch vụ đối với Đơn hàng trên dựa trên lộ trình đã thực hiện.
+– Chịu trách nhiệm bồi thường thiệt hai cho Viettel Post toàn bộ thiệt hại thực tế xảy
+ra theo quy định của pháp luật khi vi phạm bất cứ điều khoản nào theo Điều kiện sử
+dụng này và/ hoặc các văn bản, quy định khác mà Viettel Post công bố.
+– Trong thời gian giải quyết khiếu nại, không được tiết lộ thông tin dưới mọi hình
+thức cho bất kỳ bên thứ ba nào. Nếu vi phạm phải bồi thường toàn bộ thiệt hại cho
+Nhà Cung Cấp.
+– Cung cấp chứng từ hợp lý, hợp lệ chứng minh thiệt hại khi khiếu nại.
+– Tuân thủ các quy định khác mà Viettel Post công bố tại phần mềm ViettelPost.
+– Các nghĩa vụ khác theo quy định của pháp luật.
+Điều 7. Quyền và nghĩa vụ của Viettel Post
+a. Quyền của Viettel Post:
+– Yêu cầu Khách Hàng cung cấp thông tin theo quy định pháp luật khi đăng ký sử
+dụng phần mềm để cung ứng Dịch Vụ.
+– Từ chối tiếp nhận bưu gửi nếu bưu gửi không đảm bảo điều kiện chấp nhận theo
+quy định của Viettel Post.
+– Từ chối hoặc tạm giữ, giao nộp bưu gửi cho Cơ quan có thẩm quyền nếu bưu gửi
+có nội dung là hàng cấm gửi, hàng hóa nhập lậu, hàng hóa vi phạm pháp luật.
+– Được quyền kiểm tra nội dung bưu gửi trước khi nhận. Đối với bưu gửi quốc tế
+chưa hoàn tất thủ tục kê khai hải quan, Viettel Post có quyền kiểm tra lại nội dung
+bưu gửi, hướng dẫn hoặc kê khai bổ sung thông tin do Khách Hàng cung cấp chưa
+chính xác và được Khách Hàng thanh toán các chi phí phát sinh (nếu có).
+– Được chấm dứt/từ chối/ tạm dừng cung cấp dịch vụ mà không cần phải báo trước
+cho Khách Hàng khi Khách Hàng không tuân thủ các điều kiện, điều khoản quy định
+tại Điều Khoản Sử Dụng này;
+– Được thanh toán đầy đủ cước Dịch Vụ và các chi phí phát sinh đúng thời hạn.
+– Xử lý bưu gửi không có người nhận theo quy định của pháp luật.
+– Được Khách hàng bồi thường thiệt hại theo của Điều Khoản Sử Dụng này.
+– Được quyền quy định, thay đổi mức phí của các loại phí liên quan đến Dịch Vụ.
+– Được miễn trừ trách nhiệm theo quy định tại Điều 8 Điều Khoản Sử Dụng này
+– Các quyền khác theo quy định của pháp luật.
+b. Nghĩa vụ của Viettel Post:
+– Cung cấp đúng, đầy đủ thông tin về dịch vụ cung ứng, cước dịch vụ đã cung ứng
+cho Khách Hàng.
+– Đảm bảo chất lượng dịch vụ đã cam kết với Khách Hàng.
+– Tiếp nhận và giải quyết khiếu nại về dịch vụ của Khách Hàng.
+– Chuyển hoàn bưu gửi để trả lại cho Khách Hàng khi không phát được cho Người
+nhận, trừ trường hợp Khách Hàng có yêu cầu khác.
+– Thông báo cho Khách Hàng trong trường hợp cơ quan quản lý nhà nước tạm giữ,
+tịch thu bưu gửi.
+– Các nghĩa vụ khác theo quy định của pháp luật.
+Điều 8. Bồi thường thiệt hại
+– Viettel Post chỉ chịu trách nhiệm bồi thường thiệt hại cho Khách hàng trong trường
+hợp bưu gửi thực hiện theo Đơn hàng hợp lệ mà bị mất, thất lạc, hư hỏng xảy ra
+trong quá trình cung ứng Dịch Vụ và lỗi của Viettel Post là nguyên nhân trực tiếp
+dẫn đến thiệt hại cho Khách Hàng.
+– Mức bồi thường được xác định dựa trên cơ sở thiệt hại thực tế nhưng không cao
+hơn mức giới hạn trách nhiệm bồi thường thiệt hại toàn bộ đối với dịch vụ.
+– Không bồi thường thiệt hại gián tiếp hoặc nguồn lợi không thu được do việc cung
+ứng Dịch Vụ không đảm bảo chất lượng Dịch Vụ mà Viettel Post đã công bố.
+– Mức giới hạn trách nhiệm bồi thường thiệt hại được áp dụng theo Quy định mức
+giới hạn trách nhiệm bồi thường thiệt hại đối với dịch vụ bưu chính do Viettel Post
+ban hành, công bố công khai và đã thông báo với Cơ quan nhà nước theo quy định.
+Chi tiết về mức giới hạn bồi thường thiệt hại trong từng trường hợp được nêu tại
+https://viettelpost.com.vn/dich_vu/nguyen-tac-boi-thuong-thiet-hai-muc-boithuong-thiet-hai/.
+Điều 9. Giải quyết khiếu nại
+a) Thời hiệu khiếu nại:
+Khách hàng được quyền khiếu nại trong thời hiệu:
+– 06 tháng, kể từ ngày kết thúc thời gian toàn trình của bưu gửi đối với khiếu nại về
+việc mất bưu gửi; chuyển phát bưu gửi chậm so với thời gian toàn trình đã công bố;
+– 01 tháng, kể từ ngày bưu gửi được phát cho Người nhận đối với khiếu nại về việc
+bưu gửi bị suy suyển, hư hỏng, về giá cước và các nội dung khác có liên quan trực
+tiếp đến bưu gửi.
+b) Thời hạn giải quyết khiếu nại (kể từ ngày Viettel Post nhận được khiếu nại):
+– Không quá 02 (hai) tháng đối với dịch vụ bưu chính trong nước.
+– Không quá 03 tháng đối với dịch vụ bưu chính quốc tế (theo quy định của Luật
+bưu chính).
+c) Tiếp nhận khiếu nại
+Viettel Post tiếp nhận, xử lý khiếu nại của Khách Hàng qua các Kênh: Tổng đài
+1900.8095, App Viettelpost, Web ViettelPost.vn, Web Viettelpost.com.vn, Fanpage,
+Email: cskh@viettelpost.com.vn, Tetelegram, Viber và Zalo OA Viettelpost.
+Điều 10. Miễn trừ trách nhiệm
+Khách Hàng đồng ý rằng Viettel Post sẽ được miễn trừ mọi trách nhiệm pháp lý,
+trách nhiệm đền bù, bồi thường bởi các thiệt hại xảy ra trong các trường hợp sau:
+– Bưu gửi đã được phát theo thỏa thuận và người nhận không có khiếu nại gì về bưu
+gửi tại thời điểm nhận.
+– Khách Hàng không chứng minh được việc gửi và suy suyển, hư hỏng bưu gửi.
+– Khách Hàng không thực hiện đúng các quy định về khiếu nại, giải quyết tranh chấp
+theo thỏa thuận và quy định của Luật Bưu chính.
+– Thiệt hại xảy ra hoàn toàn do lỗi vi phạm Điều khoản sử dụng của Khách Hàng hoặc do
+đặc tính tự nhiên, khuyết tật vốn có của bưu gửi.
+– Hàng hóa, vật phẩm trong Bưu gửi không có hóa đơn, chứng từ hợp pháp, bị tịch
+thu hoặc tiêu hủy theo quy định của pháp luật Việt Nam hoặc pháp luật nước nhận.
+– Các trường hợp bất khả kháng theo quy định của pháp luật.
+Điều 11. Điều khoản thi hành
+1. Khách hàng đã đọc, hiểu, nhất trí và cam kết thực hiện nghiêm túc các điều khoản,
+điều kiện nêu tại Điều khoản sử dụng này. Các vấn đề chưa được quy định, các Bên
+thống nhất thực hiện theo quy định của pháp luật, hướng dẫn của cơ quan Nhà nước
+có thẩm quyền và/hoặc các cam kết/thỏa thuận có hiệu lực khác giữa các Bên.
+2. Điều khoản sử dụng này được điều chỉnh và được giải thích theo quy định của
+pháp luật nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam. Các tranh chấp phát sinh từ
+việc sử dụng Dịch vụ qua phần mềm ViettelPost thì các Bên sẽ chủ động giải quyết
+trên cơ sở thương lượng. Trường hợp tranh chấp không giải quyết được, tranh chấp
+sẽ được giải quyết bởi Tòa án có thẩm quyền theo quy định pháp luật.
+3. Điều Khoản Sử Dụng này có hiệu lực kể từ ngày 01/01/2024.

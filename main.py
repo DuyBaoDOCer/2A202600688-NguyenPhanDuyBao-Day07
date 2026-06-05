@@ -19,12 +19,11 @@ from src.models import Document
 from src.store import EmbeddingStore
 
 SAMPLE_FILES = [
-    "data/python_intro.txt",
-    "data/vector_store_notes.md",
-    "data/rag_system_design.md",
-    "data/customer_support_playbook.txt",
-    "data/chunking_experiment_report.md",
-    "data/vi_retrieval_notes.md",
+    "data/be_tos.txt",
+    "data/grab_tos.txt",
+    "data/shopee_tos.txt",
+    "data/viettelpost_tos.txt",
+    "data/zalopay_tos.txt",
 ]
 
 
@@ -45,11 +44,22 @@ def load_documents_from_files(file_paths: list[str]) -> list[Document]:
             continue
 
         content = path.read_text(encoding="utf-8")
+        
+        # Extract metadata from filename according to schema (e.g. grab_tos -> source=grab, type=tos, language=vi)
+        stem = path.stem.lower()
+        source = stem.split("_")[0] if "_" in stem else stem
+        doc_type = stem.split("_")[1] if "_" in stem else "tos"
+        
         documents.append(
             Document(
                 id=path.stem,
                 content=content,
-                metadata={"source": str(path), "extension": path.suffix.lower()},
+                metadata={
+                    "source": source,
+                    "type": doc_type,
+                    "language": "vi",
+                    "extension": path.suffix.lower()
+                },
             )
         )
 
@@ -81,7 +91,22 @@ def run_manual_demo(question: str | None = None, sample_files: list[str] | None 
 
     print(f"\nLoaded {len(docs)} documents")
     for doc in docs:
-        print(f"  - {doc.id}: {doc.metadata['source']}")
+        print(f"  - {doc.id}: source={doc.metadata['source']}, type={doc.metadata['type']}, language={doc.metadata['language']}")
+
+    # Apply SentenceChunker to chunk documents
+    from src.chunking import SentenceChunker
+    chunker = SentenceChunker(max_sentences_per_chunk=3)
+    chunked_docs = []
+    for doc in docs:
+        chunks = chunker.chunk(doc.content)
+        for idx, chunk_content in enumerate(chunks):
+            chunked_docs.append(
+                Document(
+                    id=f"{doc.id}_chunk_{idx}",
+                    content=chunk_content,
+                    metadata=dict(doc.metadata)
+                )
+            )
 
     load_dotenv(override=False)
     provider = os.getenv(EMBEDDING_PROVIDER_ENV, "mock").strip().lower()
@@ -101,9 +126,9 @@ def run_manual_demo(question: str | None = None, sample_files: list[str] | None 
     print(f"\nEmbedding backend: {getattr(embedder, '_backend_name', embedder.__class__.__name__)}")
 
     store = EmbeddingStore(collection_name="manual_test_store", embedding_fn=embedder)
-    store.add_documents(docs)
+    store.add_documents(chunked_docs)
 
-    print(f"\nStored {store.get_collection_size()} documents in EmbeddingStore")
+    print(f"\nStored {store.get_collection_size()} chunks in EmbeddingStore")
     print("\n=== EmbeddingStore Search Test ===")
     print(f"Query: {query}")
     search_results = store.search(query, top_k=3)
